@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "vim.foldfix": true,
+  "cSpell.words": ["Metadatas"]
+}
